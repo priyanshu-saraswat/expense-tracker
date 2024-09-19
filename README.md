@@ -1,8 +1,3 @@
-<a href="https://priyanshu-saraswat.github.io/expense-tracker/" style="text-decoration: none;">
-  <img src="https://i.imgur.com/75btmQ2.png" width="50" height="50" alt="Visit GitHubPages" style="vertical-align: middle;">
-  <span style="font-size: 50px; vertical-align: middle;">Visit GitHubPages</span>
-</a>
-
 # Expense Tracker
 
 The Expense Tracker is a web application designed to help users monitor and manage their expenses. Built using HTML, CSS, and JavaScript, this app allows users to track spending and gain insights into their financial habits through a clean and intuitive interface.
