@@ -1,3 +1,9 @@
+<h1 style="display: inline-block; margin: 0; font-size: 50px;">
+  <img src="https://i.imgur.com/75btmQ2.png" width="50" alt="Visit GitHubPages">
+  Visit GitHubPages
+</h1>
+
+
 # Expense Tracker
 
 The Expense Tracker is a web application designed to help users monitor and manage their expenses. Built using HTML, CSS, and JavaScript, this app allows users to track spending and gain insights into their financial habits through a clean and intuitive interface.
