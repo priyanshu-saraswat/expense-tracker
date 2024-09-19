@@ -1,8 +1,7 @@
-<h1 style="display: inline-block; margin: 0; font-size: 50px;">
-  <img src="https://i.imgur.com/75btmQ2.png" width="50" alt="Visit GitHubPages">
-  Visit GitHubPages
-</h1>
-
+<a href="https://priyanshu-saraswat.github.io/expense-tracker/" style="text-decoration: none;">
+  <img src="https://i.imgur.com/75btmQ2.png" width="50" height="50" alt="Visit GitHubPages" style="vertical-align: middle;">
+  <span style="font-size: 50px; vertical-align: middle;">Visit GitHubPages</span>
+</a>
 
 # Expense Tracker
 
